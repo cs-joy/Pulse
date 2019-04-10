@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/pulse_bg.qm</file>
+        <file alias="ca">locale/pulse_ca.qm</file>
+        <file alias="cs">locale/pulse_cs.qm</file>
+        <file alias="da">locale/pulse_da.qm</file>
+        <file alias="de">locale/pulse_de.qm</file>
+        <file alias="en">locale/pulse_en.qm</file>
+        <file alias="en_US">locale/pulse_en_US.qm</file>
+        <file alias="eo">locale/pulse_eo.qm</file>
+        <file alias="es">locale/pulse_es.qm</file>
+        <file alias="es_ES">locale/pulse_es_ES.qm</file>
+        <file alias="fi">locale/pulse_fi.qm</file>
+        <file alias="fr_FR">locale/pulse_fr_FR.qm</file>
+        <file alias="hi_IN">locale/pulse_hi_IN.qm</file>
+        <file alias="hr">locale/pulse_hr.qm</file>
+        <file alias="hr_HR">locale/pulse_hr_HR.qm</file>
+        <file alias="it">locale/pulse_it.qm</file>
+        <file alias="ja">locale/pulse_ja.qm</file>
+        <file alias="ko_KR">locale/pulse_ko_KR.qm</file>
+        <file alias="lt_LT">locale/pulse_lt_LT.qm</file>
+        <file alias="nl">locale/pulse_nl.qm</file>
+        <file alias="pl">locale/pulse_pl.qm</file>
+        <file alias="pt">locale/pulse_pt.qm</file>
+        <file alias="pt_BR">locale/pulse_pt_BR.qm</file>
+        <file alias="ro_RO">locale/pulse_ro_RO.qm</file>
+        <file alias="ru">locale/pulse_ru.qm</file>
+        <file alias="sk">locale/pulse_sk.qm</file>
+        <file alias="sv">locale/pulse_sv.qm</file>
+        <file alias="tr">locale/pulse_tr.qm</file>
+        <file alias="uk">locale/pulse_uk.qm</file>
+        <file alias="vi">locale/pulse_vi.qm</file>
+        <file alias="zh_CN">locale/pulse_zh_CN.qm</file>
+        <file alias="zh_TW">locale/pulse_zh_TW.qm</file>
+    </qresource>
+</RCC>

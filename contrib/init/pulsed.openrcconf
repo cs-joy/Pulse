@@ -1,0 +1,33 @@
+# /etc/conf.d/pulsed: config file for /etc/init.d/pulsed
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/pulse/pulse.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/pulsed"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/pulsed.pid"
+
+# Where to write pulsed data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/pulsed"
+
+# User and group to own pulsed process
+#BITCOIND_USER="pulse"
+#BITCOIND_GROUP="pulse"
+
+# Path to pulsed executable
+#BITCOIND_BIN="/usr/bin/pulsed"
+
+# Nice value to run pulsed under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BITCOIND_OPTS=""
+
+# The timeout in seconds OpenRC will wait for bitcoind to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BITCOIND_SIGTERM_TIMEOUT=60

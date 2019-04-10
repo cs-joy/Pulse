@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pulse
+Comment=Pulse P2P Cryptocurrency
+Comment[fr]=Pulse, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Pulse, eşten eşe kriptografik sanal para birimi
+Exec=pulse-qt %u
+Terminal=false
+Type=Application
+Icon=pulse128
+MimeType=x-scheme-handler/pulse;
+Categories=Office;Finance;
