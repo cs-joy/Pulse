@@ -7,7 +7,7 @@
 }
 
 QMainWindow {
-    background-color: #000000;
+    background-color: #252525;
     color: #ffffff;
 }
 
@@ -16,7 +16,7 @@ QWidget {
 }
 
 WalletFrame {
-    background-color: #000000;
+    background-color: #252525;
     border-style: none;
 }
 
@@ -26,18 +26,18 @@ QMenuBar {
 }
 
 QMenuBar::item {
-    background-color: #000000;
+    background-color: #252525;
     color: #CCCCCC;
 }
 
 QMenuBar::item:selected {
-    background-color:#180C05;
+    background-color:rgb(187, 0, 0);
 }
 
 QMenu {
     border: 1px solid;
     border-color: #870000;
-    background-color: #180C05;
+    background-color: #252525;
 }
 
 QMenu::item {
