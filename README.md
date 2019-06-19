@@ -1,7 +1,7 @@
 Pulse Core integration/staging repository
 =====================================
 
-### Coin Specs
+
 
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
