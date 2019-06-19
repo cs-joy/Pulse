@@ -9,3 +9,6 @@ Pulse Core integration/staging repository
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply </td><td>42,000,000 PLSE</td></tr>
 
+
+The Pulse Project is a test to create a full scale Video sharing application centered around blockchain technoogy and cryptocurrency.
+
